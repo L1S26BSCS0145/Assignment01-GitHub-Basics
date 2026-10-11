@@ -1,6 +1,9 @@
 
 #include <iostream>
 using namespace std;
+// Assignment01 - Github Basics
+// Student ID: L1S26BSCS0145
+// Program to calculate the sum of first 50 natural numbers
 
 int main() {
     int sum = 0;
